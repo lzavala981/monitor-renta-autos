@@ -1,0 +1,38 @@
+name: Bot de Scrapeo de Sitios
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Esto significa "Ejecutar cada 30 minutos"
+  workflow_dispatch: # Esto te permite ejecutarlo manualmente con un botón
+
+jobs:
+  monitoreo:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Extraer los archivos del repositorio
+      uses: actions/checkout@v4
+
+    - name: Preparar entorno de Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Instalar herramientas del bot (Playwright)
+      run: |
+        python -m pip install --upgrade pip
+        pip install playwright pytz
+        playwright install chromium
+
+    - name: ¡Correr el Scrapper!
+      run: python scrapper.py
+
+    - name: Guardar los resultados en el archivo CSV
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Bot Automático"
+        git add reporte_carga.csv
+        git commit -m "Registro automático: Nuevo escaneo" || echo "No hay cambios para guardar"
+        git push
