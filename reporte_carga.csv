@@ -9947,3 +9947,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 2026-04-03,23:17:11,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.48
 2026-04-03,23:17:11,Enterprise,https://enterprise.mx/,OK,200,2.07
 2026-04-03,23:17:11,Europcar,https://www.europcar.com.mx/,OK,200,0.7
+2026-04-04,00:34:15,Hertz,https://www.hertzmexico.com/,OK,200,0.64
+2026-04-04,00:34:15,Dollar,https://dollarmexico.com.mx/,OK,200,0.39
+2026-04-04,00:34:15,Thrifty,https://www.thrifty.com.mx/,OK,200,0.47
+2026-04-04,00:34:15,Firefly,https://www.fireflycarrental.com.mx/,OK,200,0.52
+2026-04-04,00:34:15,Avis,https://avis.mx/,OK,200,0.97
+2026-04-04,00:34:15,National,https://nationalcar.com.mx/,OK,200,3.99
+2026-04-04,00:34:15,Alamo,https://www.alamo.com.mx/es,OK,200,1.2
+2026-04-04,00:34:15,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,1.19
+2026-04-04,00:34:15,Budget,https://budget.com.mx/#/,OK,200,0.73
+2026-04-04,00:34:15,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,0.88
+2026-04-04,00:34:15,Enterprise,https://enterprise.mx/,OK,200,2.47
+2026-04-04,00:34:15,Europcar,https://www.europcar.com.mx/,OK,200,2.56
