@@ -16559,3 +16559,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 2026-05-02,11:10:46,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,0.83
 2026-05-02,11:10:46,Enterprise,https://enterprise.mx/,OK,200,1.42
 2026-05-02,11:10:46,Europcar,https://www.europcar.com.mx/,OK,200,3.97
+2026-05-02,12:05:46,Hertz,https://www.hertzmexico.com/,OK,200,0.23
+2026-05-02,12:05:46,Dollar,https://dollarmexico.com.mx/,OK,200,0.3
+2026-05-02,12:05:46,Thrifty,https://www.thrifty.com.mx/,OK,200,0.26
+2026-05-02,12:05:46,Firefly,https://www.fireflycarrental.com.mx/,OK,200,0.4
+2026-05-02,12:05:46,Avis,https://avis.mx/,OK,200,0.95
+2026-05-02,12:05:46,National,https://nationalcar.com.mx/,OK,200,3.56
+2026-05-02,12:05:46,Alamo,https://www.alamo.com.mx/es,OK,200,0.97
+2026-05-02,12:05:46,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,1.03
+2026-05-02,12:05:46,Budget,https://budget.com.mx/#/,OK,200,0.41
+2026-05-02,12:05:46,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,0.98
+2026-05-02,12:05:46,Enterprise,https://enterprise.mx/,OK,200,1.79
+2026-05-02,12:05:46,Europcar,https://www.europcar.com.mx/,OK,200,0.62
