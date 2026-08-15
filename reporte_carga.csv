@@ -32411,3 +32411,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 2026-08-14,21:59:38,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,5.55
 2026-08-14,21:59:38,Enterprise,https://enterprise.mx/,OK,200,0.42
 2026-08-14,21:59:38,Europcar,https://www.europcar.com.mx/,OK,200,0.78
+2026-08-14,22:30:00,Hertz,https://www.hertzmexico.com/,OK,200,0.74
+2026-08-14,22:30:00,Dollar,https://dollarmexico.com.mx/,OK,200,0.77
+2026-08-14,22:30:00,Thrifty,https://www.thrifty.com.mx/,Fallo,403,0.18
+2026-08-14,22:30:00,Firefly,https://www.fireflycarrental.com.mx/,Fallo,403,0.38
+2026-08-14,22:30:00,Avis,https://avis.mx/,OK,200,0.83
+2026-08-14,22:30:00,National,https://nationalcar.com.mx/,OK,200,3.73
+2026-08-14,22:30:00,Alamo,https://www.alamo.com.mx/es,OK,200,0.65
+2026-08-14,22:30:00,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,1.12
+2026-08-14,22:30:00,Budget,https://budget.com.mx/#/,OK,200,0.83
+2026-08-14,22:30:00,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.4
+2026-08-14,22:30:00,Enterprise,https://enterprise.mx/,OK,200,0.86
+2026-08-14,22:30:00,Europcar,https://www.europcar.com.mx/,OK,200,0.84
