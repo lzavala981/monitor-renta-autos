@@ -36479,3 +36479,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 2026-08-23,14:44:33,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.25
 2026-08-23,14:44:33,Enterprise,https://enterprise.mx/,OK,200,1.39
 2026-08-23,14:44:33,Europcar,https://www.europcar.com.mx/,OK,200,0.5
+2026-08-23,15:10:36,Hertz,https://www.hertzmexico.com/,Error de conexión o Bloqueo,0,45.01
+2026-08-23,15:10:36,Dollar,https://dollarmexico.com.mx/,OK,200,0.6
+2026-08-23,15:10:36,Thrifty,https://www.thrifty.com.mx/,Fallo,403,0.11
+2026-08-23,15:10:36,Firefly,https://www.fireflycarrental.com.mx/,Fallo,403,0.17
+2026-08-23,15:10:36,Avis,https://avis.mx/,OK,200,1.17
+2026-08-23,15:10:36,National,https://nationalcar.com.mx/,OK,200,4.21
+2026-08-23,15:10:36,Alamo,https://www.alamo.com.mx/es,OK,200,0.66
+2026-08-23,15:10:36,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,1.23
+2026-08-23,15:10:36,Budget,https://budget.com.mx/#/,OK,200,0.99
+2026-08-23,15:10:36,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.84
+2026-08-23,15:10:36,Enterprise,https://enterprise.mx/,OK,200,1.53
+2026-08-23,15:10:36,Europcar,https://www.europcar.com.mx/,OK,200,0.71
